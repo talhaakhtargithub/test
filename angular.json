@@ -33,7 +33,7 @@
             "production": {
            "budgets": [
             {
-              "type": "css",
+              "type": "bundle",
               "maximumWarning": "5mb",
               "maximumError": "5mb"
             }
